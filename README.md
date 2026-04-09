@@ -1,16 +1,27 @@
-## Hi there 👋
+## **Hola, soy Victor Sanchez 👋**
 
-<!--
-**victorjsanchez/victorjsanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## **Desarrollador Backend en proceso ⌨️**
 
-Here are some ideas to get you started:
+✨ Bienvenido a mi espacio en GitHub. Este es el lugar donde construyo, aprendo y experimento con nuevas tecnologías. Cada proyecto aquí representa un paso más en mi camino como desarrollador.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Sobre mí
+
+Soy estudiante de ingeniería de sistemas con interés en el desarrollo de aplicaciones. Me apasiona la resolución de problemas y el aprendizaje constante.
+
+Actualmente estoy fortaleciendo mis habilidades en herramientas como Git y GitHub, mientras continúo mi formación en desarrollo a través de Platzi.
+
+## 🛠️ Tecnologías
+
+- Git  
+- GitHub  
+- MySQL  
+- SQL  
+- MongoDB  
+- HTML  
+- CSS   
+
+## 🚀 Enfocado en aprender
+
+- Desarrollo Backend con Node.js y Express.js  
+- Nuevas tecnologías y buenas prácticas de desarrollo
+- Arquitectura de aplicaciones
